@@ -1,4 +1,4 @@
-# Currently working on [Modular chatbot](https://github.com/Omicron166/modular-chatbot)
+# Currently working on [Cojin Peerfinder Client](https://github.com/cojin-team/cojin-peerfinder-client)
 
 # Omicron166 Stats
  
