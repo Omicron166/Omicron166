@@ -1,6 +1,5 @@
 # Currently working on:
-- [Cojin Peerfinder Client](https://github.com/cojin-team/cojin-peerfinder-client)
-- [Cojin Peerfinder Server](https://github.com/cojin-team/cojin-peerfinder-server)
+- [Cojin project (Cojin peerfinder)](https://github.com/cojin-team)
 
 # Omicron166 Stats
  
