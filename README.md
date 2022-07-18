@@ -1,4 +1,5 @@
 # Currently working on:
+- Private projects (mainly) 
 - [Cojin project (Cojin peerfinder)](https://github.com/cojin-team)
 
 # Omicron166 Stats
