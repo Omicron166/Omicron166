@@ -1,14 +1,13 @@
 # Currently working on:
-- Ideas which probably won't see the light
+- Nothing
 
-# Omicron166 Stats
+# About me
  
 <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Omicron166&show_icons=true&theme=chartreuse-dark">
     </br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omicron166&layout=compact&theme=chartreuse-dark">
+    <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omicron166&layout=compact&theme=chartreuse-dark">-->
 </a>
-
 <h3>Skills & Tools </h3>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
