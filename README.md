@@ -1,5 +1,5 @@
 # Currently working on:
-- <a href="https://github.com/tecnoliz/tecnoliz.github.io">Tecnoliz</a>
+- Shitty private projects
 
 # About me
  
