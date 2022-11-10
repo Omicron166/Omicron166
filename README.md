@@ -1,5 +1,4 @@
 # Currently working on:
-- [Tecnoliz](https://github.com/tecnoliz/tecnoliz.github.io)
 - Shitty private projects
 
 # About me
