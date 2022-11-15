@@ -1,4 +1,5 @@
 # Currently working on:
+- [Email spammer v2](https://github.com/Omicron166/email-spammer) (the current one is a piece of shit)
 - Shitty private projects
 
 # About me
