@@ -1,7 +1,3 @@
-# Currently working on:
-- Private projects (maybe cringe, but they're functional)
-- [Discord music bot](https://github.com/Omicron166/Discord-Bot), a easy to set up discord music bot for personal use/small servers
-
 # About me
  
 <a>
